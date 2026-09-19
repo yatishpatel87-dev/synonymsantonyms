@@ -1,0 +1,6 @@
+{
+  "name": "Synonym–Antonym Battle",
+  "description": "Interactive vocabulary battle game with levels, timer, 3 lives, score certificates, and leaderboard in English and Gujarati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
